@@ -1,0 +1,7 @@
+stream_id,flow_rate_kgh,purity_percent,status
+S-01,150.0,92.5,active
+S-02,200.0,88.0,active
+S-03,,95.0,inactive
+S-04,180.0,75.0,warning
+S-05,300.0,99.1,active
+S-06,120.0,,warning
